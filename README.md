@@ -34,6 +34,9 @@ return paginator.send(message);
 ## Todo
 
 > Add more button components `start, end etc`
+
 > Add reaction pagination using type parameters
+
 > Add Typescript support
+
 > Update for discord.js v14
