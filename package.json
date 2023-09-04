@@ -1,0 +1,11 @@
+{
+  "name": "paginator-engine.djs",
+  "version": "1.0.0",
+  "description": "A discord.js v13 pagination utility package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alqm",
+  "license": "ISC"
+}
