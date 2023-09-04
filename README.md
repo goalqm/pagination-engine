@@ -30,3 +30,10 @@ return paginator.send(message);
 ## Output
 
 ![alt text](https://raw.githubusercontent.com/goalqm/pagination-engine/main/Paginator/botexample.png)
+
+## Todo
+
+> Add more button components `start, end etc`
+> Add reaction pagination using type parameters
+> Add Typescript support
+> Update for discord.js v14
