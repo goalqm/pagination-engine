@@ -26,3 +26,6 @@ const paginator = new Paginator(pages, buttons, timeout);
 
 return paginator.send(message);
 ```
+
+## Output
+
